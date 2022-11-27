@@ -8,5 +8,5 @@ Celular: +591 76356381
 Lriberias utilizadas de SDL2:  
 -sdl2_image  
 -sdl2_mixer  
--sdl2_ttf
+-sdl2_ttf 
 -sdl2_net
