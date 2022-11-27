@@ -1,5 +1,5 @@
 #include "MenuGenerator.h"
-
+//componentes menu
 MenuGenerator::MenuGenerator(int _anchoPantalla, int _altoPantalla){
 	anchoPantalla = _anchoPantalla;
 	altoPantalla = _altoPantalla;
